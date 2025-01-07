@@ -29,4 +29,4 @@ A tool for converting videos and importing them into Ghost
 
 # Copyright & License 
 
-Copyright (c) 2013-2024 Ghost Foundation - Released under the [MIT license](LICENSE).
+Copyright (c) 2013-2025 Ghost Foundation - Released under the [MIT license](LICENSE).
